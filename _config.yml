@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Achille Fusco"
 title_separator          : "-"
-name                     : &name "Achille Fusco"
+name                     : #&name "Achille Fusco"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://achille-fusco.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,12 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "photo.jpg"
+  name             : #"Your Sidebar Name"
   pronouns         : "he/him"  
   bio              : "I am a theoretical and computational linguist, working in NLP, cognitive modeling and formal semantics."
   location         : #"Earth"
-  employer         : "NeTS Lab, IUSS Pavia / University of Florence"
+  employer         : "NeTS Lab, IUSS Pavia
+  employer         : "University of Florence"
   uri              : # URL
   email            : "achille.fusco@iusspavia.it" 
 
