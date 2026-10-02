@@ -20,15 +20,10 @@ Project: *Cultura umanistica e patrimonio digitale. Analisi, catalogazione e dif
 Final grade: Excellent cum laude  
 Dissertation: *Attitudes and Disagreement on Climate Change*
 
-**MA in Language and Mind – Linguistics and Cognitive Studies** — University of Siena, Siena, Italy  
-*Oct 2015 – Sep 2017*  
+**MA in Language and Mind – Linguistics and Cognitive Studies** — University of Siena, Siena, Italy    
 Final grade: 110/110 cum laude
 
 **BA in Applied Language Mediation – English and Chinese** — University of Perugia, Perugia, Italy  
-*Oct 2008 – Mar 2014*
-
-**Erasmus Exchange Program** — University of Manchester, Manchester, UK  
-*Sep 2009 – Jun 2010*
 
 ## Internships and training
 
