@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-author_profile: true
 ---
 
 ## Research interests
