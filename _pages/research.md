@@ -1,5 +1,6 @@
 ---
 permalink: /research/
+show_title: false
 ---
 
 ## Research interests
