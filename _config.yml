@@ -26,9 +26,9 @@ author:
   avatar           : "photo.jpg"
   name             : #"Your Sidebar Name"
   pronouns         : "he/him"  
-  bio              : "I am a theoretical and computational linguist, working in NLP, cognitive modeling and formal semantics."
+  bio              : "I study linguistic meaning using formal and computational methods, with interests spanning formal semantics, NLP and language models."
   location         : #"Earth"
-  employer         : "NeTS Lab, IUSS Pavia / University of Florence"
+  employer         : "NeTS Lab, IUSS Pavia"
   uri              : # URL
   email            : "achille.fusco@iusspavia.it" 
 
