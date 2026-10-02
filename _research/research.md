@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "..."
+author_profile: true
+redirect_from:
+  - /research/
+---
+
 ## Research interests
 
 - Natural Language Processing and language models
