@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "..."
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 I am a theoretical and computational linguist working at the intersection of **natural language processing, cognitive modeling, and formal semantics**.
 
 I gained my PhD in **Neurocognitive Science and Philosophy of Mind** at **IUSS Pavia**. Before that, I studied **Linguistics and Cognitive Studies** at the **University of Siena**.
