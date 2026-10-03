@@ -3,7 +3,7 @@ permalink: /research/
 show_title: false
 ---
 
-## Research interests
+
 
 - Natural Language Processing and language models
 - Computational and cognitive modeling of language
